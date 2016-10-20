@@ -1,0 +1,15 @@
+2016/10/20 05:11:01 [notice] 13202#13202: using the "epoll" event method
+2016/10/20 05:11:01 [notice] 13202#13202: openresty/1.11.2.1
+2016/10/20 05:11:01 [notice] 13202#13202: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-4) (GCC) 
+2016/10/20 05:11:01 [notice] 13202#13202: OS: Linux 3.10.0-229.el7.x86_64
+2016/10/20 05:11:01 [notice] 13202#13202: getrlimit(RLIMIT_NOFILE): 1024:4096
+2016/10/20 05:11:01 [notice] 13203#13203: start worker processes
+2016/10/20 05:11:01 [notice] 13203#13203: start worker process 13204
+2016/10/20 05:11:01 [notice] 13203#13203: start worker process 13205
+2016/10/20 05:11:19 [info] 13204#13204: *1 client 127.0.0.1 closed keepalive connection
+2016/10/20 05:11:24 [info] 13204#13204: *5 client 127.0.0.1 closed keepalive connection
+2016/10/20 05:11:59 [info] 13204#13204: *8 client 127.0.0.1 closed keepalive connection
+2016/10/20 05:12:04 [info] 13204#13204: *11 client 127.0.0.1 closed keepalive connection
+2016/10/20 05:12:24 [info] 13204#13204: *14 client 127.0.0.1 closed keepalive connection
+2016/10/20 08:19:21 [info] 13204#13204: *17 client 127.0.0.1 closed keepalive connection
+2016/10/20 08:19:32 [info] 13204#13204: *20 client 127.0.0.1 closed keepalive connection

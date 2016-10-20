@@ -1,0 +1,13 @@
+---
+- hosts: nginx
+  sudo: yes
+  tasks:
+  - name: Copy openresty repo
+    copy: src=openresty.repo dest=/etc/yum.repos.d
+
+  - name: Install packge
+    yum: name={{item}} state=present
+    with_items:
+      - epel-release
+      - redis
+      - openresty
